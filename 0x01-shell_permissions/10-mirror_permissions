@@ -1,0 +1,1 @@
+chmod --reference=reference_file hello
